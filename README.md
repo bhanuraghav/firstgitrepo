@@ -1,3 +1,3 @@
-# firstgitrepo
-## Start working on Github
-### Help others and contribute towards a better world!!!
+# This time second git repo
+## Start working on Github soon!!!
+### Still hoping to Help others and contribute towards a better world!!!
